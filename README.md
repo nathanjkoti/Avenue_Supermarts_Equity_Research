@@ -1,4 +1,4 @@
-# Avenue_Supermarts_Equity_Research
+# Avenue Supermarts Equity Research
 Comprehensive financial valuation and equity research report on DMart (NSE: AVEU).
 <div align="center">
   <img src="Images/Cover_Page.png" alt="DMart Equity Research Cover" width="600">
