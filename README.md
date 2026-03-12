@@ -1,5 +1,8 @@
 # Avenue_Supermarts_Equity_Research
 Comprehensive financial valuation and equity research report on DMart (NSE: AVEU).
+<div align="center">
+  <img src="images/cover.png" alt="DMart Equity Research Cover" width="600">
+</div>
 # Equity Research: Avenue Supermarts Ltd (DMart)
 **Recommendation:** BUY | **Target Price:** ₹4,782 | **Horizon:** 12 Months
 
