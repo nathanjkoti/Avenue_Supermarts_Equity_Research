@@ -12,7 +12,7 @@ An in-depth fundamental analysis of India's leading organized retailer. This pro
 - **Efficiency:** Analyzed a 26-day Cash Conversion Cycle and 11x Inventory Turnover.
 
 ## 📂 Project Contents
-- [Full Research Report (PDF)](./Report/Avenue_Supermarts_Report.pdf)
+- [Full Research Report (PDF)](./Report/Avenue_Supermarts_Equity_Research_Report.pdf)
 - [Financial Valuation Model (Excel)](./Model/DMart_Valuation_Model.xlsx)
 - [Live Canva Report (View Only)](YOUR_CANVA_LINK_HERE)
 
