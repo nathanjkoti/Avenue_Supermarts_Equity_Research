@@ -14,7 +14,7 @@ An in-depth fundamental analysis of India's leading organized retailer. This pro
 ## 📂 Project Contents
 - [Full Research Report (PDF)](./Report/Avenue_Supermarts_Equity_Research_Report.pdf)
 - [Financial Valuation Model (Excel)](./Model/DMart_Valuation_Model.xlsx)
-- [Live Canva Report (View Only)](YOUR_CANVA_LINK_HERE)
+- [Live Canva Report (View Only)](https://www.canva.com/design/DAHDK5gmUHA/jRRmITff4hd2hxJUV_dQDw/view?utm_content=DAHDK5gmUHA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106a7d200a)
 
 ## 🛠️ Skills Demonstrated
 Fundamental Analysis, Financial Modeling, Ratio Analysis, Data Visualization.
